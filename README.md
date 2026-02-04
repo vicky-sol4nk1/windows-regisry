@@ -10,7 +10,6 @@ In simple words:
 
 
 
-Got it 👍 You want **proper paragraph-style explanations**, not bullet notes. I’ll explain each hive like a concept, slowly and clearly, so it actually *sticks*.
 
 ---
 
