@@ -9,6 +9,7 @@ In simple words:
 👉 The Registry is Windows’ memory of how everything should work.
 
 
+e Windows Registry is divided into five main logical sections called hives.
 
 
 ---
